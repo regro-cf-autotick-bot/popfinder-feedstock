@@ -1,11 +1,11 @@
-About popfinder
-===============
+About popfinder-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/popfinder-feedstock/blob/main/LICENSE.txt)
 
 Home: https://syncrosim.com/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/popfinder-feedstock/blob/main/LICENSE.txt)
 
 Summary: Genetic population assignment using neural networks
 
