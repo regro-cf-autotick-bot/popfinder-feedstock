@@ -1,5 +1,5 @@
 {% set name = "popfinder" %}
-{% set version = "0.0.4" %}
+{% set version = "0.0.5" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/popfinder-{{ version }}.tar.gz
-  sha256: f2f6baa8849c370d68db688e80cc7bf3b3935721299cdf50efd14aa99b9c3478
+  sha256: f04fb5e24f826a25768029d79d2c28a4c413dc01535cfdf142907bf72c805f89
 
 build:
   number: 0
